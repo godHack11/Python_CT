@@ -1,3 +1,7 @@
+# Project
+# This project aims to predict students' exam scores based on features such as the number of hours studied, previous exam scores, and attendance.
+# Regression techniques will be used to build a model that estimates the exam score of a student given these input features.
+# The project can provide insights into factors influencing student performance and help educators identify students who may need additional support. 
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
